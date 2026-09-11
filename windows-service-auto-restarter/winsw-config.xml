@@ -1,0 +1,9 @@
+<service>
+  <id>ServiceAutoRestarter</id>
+  <name>ServiceAutoRestarter</name>
+  <description>Monitors critical Windows services and restarts any that have stopped</description>
+  <executable>powershell.exe</executable>
+  <arguments>-ExecutionPolicy Bypass -File "C:\Users\Administrator\Desktop\service\service-auto-restarter.ps1"</arguments>
+  <workingdirectory>C:\Users\Administrator\Desktop\service</workingdirectory>
+  <logpath>C:\Users\Administrator\Desktop\service\logs</logpath>
+</service>
