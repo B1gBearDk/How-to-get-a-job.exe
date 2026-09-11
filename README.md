@@ -10,4 +10,4 @@ Small, self-contained scripts and services from my BSc Cyber Security coursework
 
 ## About me
 
-3rd-semester BSc Cyber Security student at Erhvervsakademi København (EK/KEA), Blue Team Level 1 (BTL1). Currently working as a intern at Novo Nordisk (incident handling, access management, device provisioning). Interested in SOC/security operations, network security, and GRC/compliance roles.
+3rd-semester BSc Cyber Security student at Erhvervsakademi København (EK/KEA), Working on Blue Team Level 1 (BTL1). Intern at Novo Nordisk (incident handling, access management, device provisioning). Interested in SOC/security operations, network security, and GRC/compliance roles.
