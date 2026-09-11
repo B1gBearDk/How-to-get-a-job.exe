@@ -1,6 +1,6 @@
 # Cybersecurity & Systems Labs
 
-Small, self-contained scripts and services from my BSc Cyber Security coursework (Erhvervsakademi København — EK/KEA), built as group assignments. Everything here has actually been run, not just written — each project's README includes a real log excerpt as evidence.
+Small, self-contained scripts and services from my BSc Cyber Security coursework (Erhvervsakademi København EK/KEA), built as group assignments. Everything here has actually been run, not just written each project's README includes a real log excerpt as evidence.
 
 ## Projects
 
